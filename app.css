@@ -59,7 +59,7 @@ nav {
 }
 
 .r-enter-active {
-    transition: opacity 2s;
+    transition: opacity 1s;
 }
 
 .r-enter-to {
@@ -71,7 +71,7 @@ nav {
 }
 
 .r-leave-active {
-    transition: opacity 2s;
+    transition: opacity 1s;
 }
 
 .r-leave-to {
